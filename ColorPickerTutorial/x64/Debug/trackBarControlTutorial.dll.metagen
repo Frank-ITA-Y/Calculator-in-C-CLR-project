@@ -1,0 +1,31 @@
+  trackBarControlTutorial.MyUserControl.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly trackBarControlTutorial, Version=1.0.*, Culture=Lingua inglese (non associata ad alcun paese): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class trackBarControlTutorial.MyUserControl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String CounterText 'get set' : 
+  Events:
+    System.EventHandler ValueChanged: SpecialName
+  Methods:
+    GetCount(): PrivateScope, Public, HideBySig
+    get_CounterText(): PrivateScope, Public, HideBySig, SpecialName
+    set_CounterText(String): PrivateScope, Public, HideBySig, SpecialName
+    add_ValueChanged(EventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_ValueChanged(EventHandler): PrivateScope, Public, HideBySig, SpecialName
+Class trackBarControlTutorial.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

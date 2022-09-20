@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (ColorPickerTutorial.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  MyForm.cpp
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\ColorPickerTutorial\MyForm.cpp(6,33): warning C4829: Parametri probabilmente errati nella funzione main. Si consiglia di utilizzare 'int main(array<System::String^>^ argv)'
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\ColorPickerTutorial\MyForm.cpp(7,15): warning C4551: chiamata di funzione senza elenco di argomenti
+  MyForm.obj : rilevato modulo MSIL; il collegamento incrementale è disabilitato per MSIL; verrà eseguito il collegamento completo
+  ColorPickerTutorial.vcxproj -> C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\x64\Debug\CalculateTut.exe

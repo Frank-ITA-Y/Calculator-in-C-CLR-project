@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MyUserControl.cpp
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\trackBarControlTutorial\MyUserControl.h(40,45): error C2086: 'System::Windows::Forms::TrackBar ^trackBarControlTutorial::MyUserControl::trackBarCounter': ridefinizione
+  trackBarControlTutorial.cpp
+  Generazione del codice in corso...

@@ -1,0 +1,4 @@
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\ColorPickerTutorial\x64\Debug\ColorPickerTutorial.vcxproj.AssemblyReference.cache
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\ColorPickerTutorial\x64\Debug\ColorPickerTutorial.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\ColorPickerTutorial\x64\Debug\ColorPickerTutorial.MyForm.resources
+C:\Users\infof\Desktop\documenti\AHK\ColorPickerTutorial\ColorPickerTutorial\x64\Debug\ColorPickerTutorial.vcxproj.GenerateResource.cache
